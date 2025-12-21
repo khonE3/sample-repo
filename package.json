@@ -2,7 +2,8 @@
   "name": "sample-calculator",
   "version": "1.0.0",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "run": "node scripts.js"
   },
   "devDependencies": {
     "jest": "^29.0.0"
